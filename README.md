@@ -51,6 +51,7 @@ All pipelines where deployed on AWS SageMaker, as well as the Model Registry and
 - ✅ Tuning
 - ✅ Evaluation
 - ✅ Model Registry
+- ✅ Model Conditional Registry
 - ✅ Deployment
 
 <p align="center">
