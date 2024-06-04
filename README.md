@@ -40,7 +40,7 @@ The dataset was obtained from Kaggle and contains 5110  rows and 10 columns to d
 
 <p align="center">
     <img src="https://github.com/benitomartin/peft-gemma-2b/assets/116911431/f306a317-c7d7-470d-8adc-c36c7951d539">
-    </p>
+</p>
 
 ## Pipeline Deployment
 
@@ -53,6 +53,8 @@ All pipelines where deployed on AWS SageMaker, as well as the Model Registry and
 - ✅ Model Registry
 - ✅ Model Conditional Registry
 - ✅ Deployment
+
+Aadditionally the experiments are tracked on Comel ML.
 
 <p align="center">
     <img src="https://github.com/benitomartin/peft-gemma-2b/assets/116911431/7ea2a1db-11fc-4abc-94eb-42169b8846b7">
