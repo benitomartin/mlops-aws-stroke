@@ -44,7 +44,7 @@ The dataset was obtained from Kaggle and contains 5110  rows and 10 columns to d
 
 ## Pipeline Deployment
 
-All pipeline where deployed on AWS SageMaker, as well as the Model Registry and Endpoints. The following pipelines where created:
+All pipelines where deployed on AWS SageMaker, as well as the Model Registry and Endpoints. The following pipelines where created:
 
 - ✅ Preprocessing
 - ✅ Training
