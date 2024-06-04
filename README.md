@@ -57,5 +57,5 @@ All pipelines where deployed on AWS SageMaker, as well as the Model Registry and
 Aadditionally the experiments are tracked on Comel ML.
 
 <p align="center">
-    <img src="https://github.com/benitomartin/peft-gemma-2b/assets/116911431/7ea2a1db-11fc-4abc-94eb-42169b8846b7">
+    <img src="https://github.com/benitomartin/mlops-aws-stroke/assets/116911431/892ead03-7c8f-4e61-ad75-7abeee35e11b">
     </p>
