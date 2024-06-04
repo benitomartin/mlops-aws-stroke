@@ -36,7 +36,7 @@ The project has been structured with the following folders and files:
 
 ## Project Description
 
-The dataset was obtained from Kaggle and contains 5110  rows and 10 columns to detect stroke predictions. To prepare the data for modelling, an **Exploratory Data Analysis** was conducted where it was detected that the dataset is very imbalance (95% no stroke, 5% stroke). For modeling, the categorical features where encoded and the best roc-auc threshold was selected for the predictions. The learning rate was tuned in order to find the best one on the deployed model.
+The dataset was obtained from Kaggle and contains 5110  rows and 10 columns to detect stroke predictions. To prepare the data for modelling, an **Exploratory Data Analysis** was conducted where it was detected that the dataset is very imbalance (95% no stroke, 5% stroke). For modeling, the categorical features where encoded, XGBoost was use das model and the best roc-auc threshold was selected for the predictions using aditionally threshold-moving for the predictions due to the imbalance. The learning rate was tuned in order to find the best one on the deployed model.
 
 <p align="center">
     <img src="https://github.com/benitomartin/peft-gemma-2b/assets/116911431/f306a317-c7d7-470d-8adc-c36c7951d539">
