@@ -54,7 +54,7 @@ All pipelines where deployed on AWS SageMaker, as well as the Model Registry and
 - ✅ Model Conditional Registry
 - ✅ Deployment
 
-Aadditionally the experiments are tracked on Comel ML.
+Additionally the experiments were tracked on Comel ML.
 
 <p align="center">
     <img src="https://github.com/benitomartin/mlops-aws-stroke/assets/116911431/892ead03-7c8f-4e61-ad75-7abeee35e11b">
